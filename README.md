@@ -14,17 +14,13 @@
 
 | 版本 | 适用游戏版本 | 下载 |
 |---|---|---|
-| v1.0.0 | Rusted Warfare 1.15p11+ | 见 Releases |
+| J9 | Rusted Warfare 1.15p11+ | 见 Releases |
 
 ## 安装方法
 
 1. 下载 `.rwmod` 文件
 2. 放到铁锈战争 Mods 文件夹
 3. 启动游戏，在 Mod 菜单中启用
-
-## 截图
-
-![截图1](screenshots/01.jpg)
 
 ## 更新日志
 
