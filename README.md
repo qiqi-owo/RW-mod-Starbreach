@@ -1,6 +1,6 @@
 # RW-mod-Starbreach
 
-> 铁锈战争 Mod | 群星之争_CO_发布页
+> 铁锈战争 Mod | 群星之争 Starbreach
 
 ## 简介
 
