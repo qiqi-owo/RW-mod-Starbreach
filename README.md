@@ -1,6 +1,6 @@
 # RW-mod-Starbreach
 
-> 铁锈战争 Mod：群星之争_CO_发布页
+> 铁锈战争 Mod | 群星之争_CO_发布页
 
 ## 简介
 
@@ -31,3 +31,4 @@
 - 适用游戏版本：Rusted Warfare 1.15+
 - 作者：蓝鸽 | 白 | 协助创作: 一般通过
 - 反馈：请在本仓库 [Issues](https://github.com/qiqi-owo/RW-mod-Starbreach/issues) 提交
+- 社区：交流群 1124701816 | 资源群 1127127140
