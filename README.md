@@ -8,19 +8,15 @@
 轻松快节奏,没有复杂的前置科技,无论PVP还是PVE都将给您带来愉悦的对局
 新增大量单位、机制、地图、模式等
 
-## 下载
-
-前往 [Releases](https://github.com/qiqi-owo/RW-mod-Starbreach/releases/latest) 下载最新 `.rwmod` 文件。
-
-| 版本 | 适用游戏版本 | 下载 |
-|---|---|---|
-| J9 | Rusted Warfare 1.15p11+ | 见 Releases |
+| 适用游戏版本 | 下载 |
+|---|---|
+| Rusted Warfare 1.15p11+ | 前往 [Releases](https://github.com/qiqi-owo/RW-mod-Starbreach/releases/latest) |
 
 ## 安装方法
 
 1. 下载 `.rwmod` 文件
 2. 放到铁锈战争 Mods 文件夹
-3. 启动游戏，在 Mod 菜单中启用
+3. 启动游戏，在 Mod 菜单中启用并重载数据
 
 ## 更新日志
 
