@@ -10,7 +10,10 @@
 
 | 适用游戏版本 | 下载 |
 |---|---|
-| Rusted Warfare 1.15p11+ | 前往 [Releases](https://github.com/qiqi-owo/RW-mod-Starbreach/releases/latest) |
+| Rusted Warfare 1.15p11+ | 前往 [Releases 最新版](https://github.com/qiqi-owo/RW-mod-Starbreach/releases/latest) |
+### 若下载时出现困难，可尝试：
+- [分流站1](https://ghproxy.link/)
+- [分流站2](https://ghproxy.net/)
 
 ## 安装方法
 
