@@ -38,9 +38,16 @@
 - 反馈：可在本仓库 [Issues](https://github.com/qiqi-owo/RW-mod-Starbreach/issues) 提交
 
 ## 社区
+
 - ᑫᑫ 交流群: 1124701816
 - ᑫᑫ bug反馈群: 1017942755
 - 讨论区: [Discussions](https://github.com/qiqi-owo/RW-mod-Starbreach/discussions)
+
+## DLC 阵营制作教程
+
+本 Mod 提供接口与教程，可制作附属 Mod。
+
+→ [下载最新DLC教程](https://github.com/qiqi-owo/RW-mod-Starbreach/releases/tag/dlc-tutorial) 
 
 ## 授权协议
 
