@@ -1,4 +1,7 @@
 # RW-mod-Starbreach
+[![Downloads](https://img.shields.io/github/downloads/qiqi-owo/RW-mod-Starbreach/total.svg?style=flat-square&color=2da44e&logo=github)](https://github.com/qiqi-owo/RW-mod-Starbreach/releases/latest)
+[![Release](https://img.shields.io/github/v/release/qiqi-owo/RW-mod-Starbreach?style=flat-square&color=blue&logo=github)](https://github.com/qiqi-owo/RW-mod-Starbreach/releases/latest)
+[![Issues](https://img.shields.io/github/issues-raw/qiqi-owo/RW-mod-Starbreach?style=flat-square&color=orange&logo=github)](https://github.com/qiqi-owo/RW-mod-Starbreach/issues)
 
 > 铁锈战争 Mod | 群星之争 Starbreach
 
@@ -33,7 +36,11 @@
 - 作者：蓝鸽 | 白
 - 协助创作：一般通过
 - 反馈：请在本仓库 [Issues](https://github.com/qiqi-owo/RW-mod-Starbreach/issues) 提交
-- 社区：ᑫᑫ交流群 1124701816
+
+## 社区
+- ᑫᑫ 交流群: 1124701816
+- ᑫᑫ bug反馈群: 1017942755
+- 讨论区: [Discussions](https://github.com/qiqi-owo/RW-mod-Starbreach/discussions)
 
 ## 授权协议
 
