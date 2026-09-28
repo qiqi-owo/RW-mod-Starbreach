@@ -35,7 +35,7 @@
 - 适用游戏版本：Rusted Warfare 1.15+
 - 作者：蓝鸽 | 白
 - 协助创作：一般通过
-- 反馈：请在本仓库 [Issues](https://github.com/qiqi-owo/RW-mod-Starbreach/issues) 提交
+- 反馈：可在本仓库 [Issues](https://github.com/qiqi-owo/RW-mod-Starbreach/issues) 提交
 
 ## 社区
 - ᑫᑫ 交流群: 1124701816
