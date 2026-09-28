@@ -28,7 +28,7 @@
 
 ## 更新日志
 
-见 [Releases](https://github.com/qiqi-owo/RW-mod-Starbreach/releases)
+见 [changelog](https://github.com/qiqi-owo/RW-mod-Starbreach/releases/tag/changelog)
 
 ## 说明
 
@@ -47,7 +47,7 @@
 
 本 Mod 提供接口与教程，可制作附属 Mod。
 
-→ [下载最新DLC教程](https://github.com/qiqi-owo/RW-mod-Starbreach/releases/tag/dlc-tutorial) 
+[Download dlc-tutorial](https://github.com/qiqi-owo/RW-mod-Starbreach/releases/tag/dlc-tutorial) 
 
 ## 授权协议
 
